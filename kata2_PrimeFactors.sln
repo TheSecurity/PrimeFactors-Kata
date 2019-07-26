@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kata2_PrimeFactors", "kata2_PrimeFactors\kata2_PrimeFactors.csproj", "{CCD73E14-141A-43C8-AD01-4EBD5FF8E22F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeFactorGeneratorTests", "PrimeFactorGeneratorTests\PrimeFactorGeneratorTests.csproj", "{B78844D4-B30F-424C-95BF-7653FDB957F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCD73E14-141A-43C8-AD01-4EBD5FF8E22F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCD73E14-141A-43C8-AD01-4EBD5FF8E22F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCD73E14-141A-43C8-AD01-4EBD5FF8E22F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCD73E14-141A-43C8-AD01-4EBD5FF8E22F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B78844D4-B30F-424C-95BF-7653FDB957F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B78844D4-B30F-424C-95BF-7653FDB957F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B78844D4-B30F-424C-95BF-7653FDB957F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B78844D4-B30F-424C-95BF-7653FDB957F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A36AE05-4D16-4BEC-82E4-CCBC1A344712}
+	EndGlobalSection
+EndGlobal
